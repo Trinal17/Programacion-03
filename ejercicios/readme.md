@@ -1,6 +1,21 @@
 # Ejercicios para repasar conceptos básicos
 
-## Ejercicio 1: CalculoCapital
+
+## Ejercicio 1: CalcularPatas
+
+Un biólogo está realizando un estudio de distintas especies de invertebrados y necesita una aplicación que le ayude a contabilizar el número de patas que tienen en total todos los animales capturados durante una jornada de trabajo. 
+
+Para ello, te ha solicitado que escribas una aplicación a la que hay que proporcionar. 
+
+El número de hormigas capturadas (6 patas)
+
+El número de arañas capturadas (8 patas)
+
+El número de cochinillas capturadas (14 patas)
+
+La aplicación debe mostrar el número tota de patas. 
+
+## Ejercicio 2: CalculoCapital
 
 Suponga que un individuo desea invertir su capital en un banco y desea saber cuanto dinero ganara después de un mes si el banco paga a razón de 2% mensual.
 
@@ -15,7 +30,7 @@ Calcular la ganancia
 Escribir la ganancia por consola
 
 
-## Ejercicio 2: EurosCentimos
+## Ejercicio 3: EurosCentimos
 
 Implemeta un programa que nos diga el dinero que tenemos (en euros y céntimos) después de pedirnos cuantas monedas tenemos de 
 - 2€
@@ -28,7 +43,7 @@ Implemeta un programa que nos diga el dinero que tenemos (en euros y céntimos) 
 
 ![image](https://user-images.githubusercontent.com/91023374/192148770-3bd15245-fe98-4d6a-b0e6-49ab107f768d.png)
 
-## Ejercicio 3: PrecioFinal
+## Ejercicio 4: PrecioFinal
 
 Escribe un programa que pida:
 
@@ -58,19 +73,7 @@ Solo se puede introducir como máximo los valores de:
 
 59 segundos
 
-## Ejercicio 6: CalcularPatas
 
-Un biólogo está realizando un estudio de distintas especies de invertebrados y necesita una aplicación que le ayude a contabilizar el número de patas que tienen en total todos los animales capturados durante una jornada de trabajo. 
-
-Para ello, te ha solicitado que escribas una aplicación a la que hay que proporcionar. 
-
-El número de hormigas capturadas (6 patas)
-
-El número de arañas capturadas (8 patas)
-
-El número de cochinillas capturadas (14 patas)
-
-La aplicación debe mostrar el número tota de patas. 
 
 
 
