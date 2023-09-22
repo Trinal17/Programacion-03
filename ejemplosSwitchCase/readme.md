@@ -11,8 +11,8 @@ Escribe un programa donde el usuario escriba una nota de FP y se indique.
   - Si es < 5: Deficiente
   - Si es 5: Deficiente
   - Si es 6: Bien
-  - Si es > 6: Notable
-  - Si es 
+  - Si la nota es 7 y 8: Notable
+  - Si la nota es 9 y 10: Sobresaliente
 
 ## Ejercicio 2: días semana (entero)
 
