@@ -1,6 +1,6 @@
 # Practicando con switch... case
 
-## Ejercicio 1:
+## Ejercicio 1: notas FP
 
 Escribe un programa donde el usuario escriba una nota de FP y se indique.
 - Si es menor que 0: "No puedes poner un 0 en FP".
