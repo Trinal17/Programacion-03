@@ -53,7 +53,7 @@ Y después mostrándolos en la misma línea separados por un espacio.
 
 Mostrar un mensaje que indique el final del programa.
 
-# Ejercicio 6: datos estadísticos edades alumnos
+## Ejercicio 6: datos estadísticos edades alumnos
 
 Implementar una aplicación para calcular datos estadísticos de las edades de los alumnos de un centro educativo. 
 
@@ -63,7 +63,7 @@ Se introducirán datos hasta que uno de ellos sea negativo, y se mostrará:
 - el  número de alumnos
 - cuantos son mayores de edad
 
-# Ejercicio 7: suma de pares e impares
+## Ejercicio 7: suma de pares e impares
 
 Programa que suma independientemente los pares y los impares de los números comprendidos entre 100 y 200.
 
