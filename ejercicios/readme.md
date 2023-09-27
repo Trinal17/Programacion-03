@@ -63,7 +63,9 @@ Solo es posible calcular horas inferiores a 1 día, por tanto el número mayor a
 
 ## Ejercicio 5: SumaSegundo
 
-Escribe un programa que recibe como datos de entrada una hora expresada en horas, minutos y segundos que nos calcula y escribe la hora, minutos y segundos que serán, transcurrido un segundo.
+Escribe un programa que recibe como datos de entrada una hora expresada en horas, minutos y segundos.
+
+Calcula y muestra la hora:minutos:segundos que serán, transcurrido un segundo.
 
 Solo se puede introducir como máximo los valores de:
 
