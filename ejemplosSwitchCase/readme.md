@@ -27,4 +27,4 @@ Escribe un programa donde el usuario escriba el día de la semana y muestre los 
 - Si es martes, miércoles, jueves: "Estamos a mitad de semana".
 - Si es viernes: "Han acabado las clases esta semana!!!"
 - Si es sábado o domingo: "Estamos a finde"
-- 
+  
