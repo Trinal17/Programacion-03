@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author melola
  */
-public class Echo {
+public class Ejcho {
 
     /**
      * @param args the command line arguments
