@@ -9,9 +9,18 @@ Implementa diferentes programas en Java en base a las siguientes retos:
 
 Dado un tiempo en minutos, calcula los días, horas y minutos que le corresponden.
 
-## RETO 2
+## RETO 2: fizz buzz
 
-Mostrar la suma de los números pares entre 1 y 10
+```
+/*
+ * Escribe un programa que muestre por consola (con un print) los
+ * números de 1 a 100 (ambos incluidos y con un salto de línea entre
+ * cada impresión), sustituyendo los siguientes:
+ * - Múltiplos de 3 por la palabra "fizz".
+ * - Múltiplos de 5 por la palabra "buzz".
+ * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
+ */
+```
 
 ## RETO 3
 
@@ -25,17 +34,4 @@ Leer 5 números enteros y decir si:
 
 - alguno de los números introducidos es negativo.
 - el valor máximo introducido
-
-## RETO FIZZ BUZZ
-```
-/*
- * Escribe un programa que muestre por consola (con un print) los
- * números de 1 a 100 (ambos incluidos y con un salto de línea entre
- * cada impresión), sustituyendo los siguientes:
- * - Múltiplos de 3 por la palabra "fizz".
- * - Múltiplos de 5 por la palabra "buzz".
- * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
- */
-```
-
 
