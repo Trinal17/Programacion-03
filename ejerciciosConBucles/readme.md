@@ -1,5 +1,8 @@
 # Ejercicios para practicar con bucles en ejercicios sencillos
 
+![image](https://github.com/profeMelola/Programacion-03-2023-24/assets/91023374/bff7fafe-25a3-409b-a1ca-9428acdd8a34)
+
+
 ## Ejercicio 1: Eco
 Programa que muestre un mensaje repetido por consola tantas veces como se hay introducido por teclado.
 
