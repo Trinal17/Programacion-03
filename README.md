@@ -14,6 +14,7 @@
 - CLASE MATH
 - FUNCIONES: métodos estáticos
 - FUNCIONES: ámbito de variables, parámetros por valor y por referencia
+- Bibliotecas y paquetes
 
 
 [VOLVER PÁGINA PRINCIPAL](https://github.com/profeMelola/Programacion-00-2023-24)
