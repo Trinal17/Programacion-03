@@ -3,6 +3,11 @@
 ![image](https://github.com/profeMelola/Programacion-03-2023-24/assets/91023374/dfbe2ca6-adf5-4cd9-92dc-5658cacde7f9)
 
 ## Contenidos
+
+Teoría en el aula virtual: 
+https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php?id=526#section-7
+
+
 - ESTRUCTURAS CONDICIONALES: if, if...else, if...else if...
 - ESTRUCTURAS CONDICIONALES: Switch
 - ESTRUCTURAS CONDICIONALES: operador ternario
