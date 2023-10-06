@@ -13,6 +13,7 @@ public class AppReto1ConFor {
 
     // ÁMBITO GLOBAL A LA CLASE
     static final int PRECIO_BILLETE = 3;
+    static final int LIMITE = 5;
     
     /**
      * @param args the command line arguments
@@ -28,31 +29,34 @@ public class AppReto1ConFor {
         // El scanner lo declaro fuera del bucle
         Scanner sc = new Scanner(System.in);
         
-        int limite = 5;
+        
 
-        for(int i = 1; i <= limite; i++){
+        for(int i = 1; i <= LIMITE; i++){
         
             System.out.println("*************************");
             System.out.println("* Billete número <"+i+">");
+
+            //Pedir la edad al usuario
+            System.out.print("Introduce tu edad: ");
+            edad = sc.nextInt();
             
-            if ( i == limite){
+            if ( i == LIMITE){
+                
                 System.out.println("Qué suerte, promoción especial!!!!");
                 precioFinalBillete = 0;
             }else{
             
-                //Pedir la edad al usuario
-                System.out.print("Introduce tu edad: ");
-                edad = sc.nextInt();
-
                 if (edad >= 8 && edad <= 17) {
                     // mitad del billete
                     precioFinalBillete = PRECIO_BILLETE * 0.5;
                 } else if (edad >= 18 && edad <= 64) {
                     precioFinalBillete = PRECIO_BILLETE;
+                } else{
+                    precioFinalBillete = 0;
                 }
             }
             
-            System.out.println("El precio final de tu billete es: " + precioFinalBillete);        
+            System.out.println("El precio final de tu billete es: " + precioFinalBillete+" €");        
         }// end for
         
     }
