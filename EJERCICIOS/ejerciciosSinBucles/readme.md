@@ -55,13 +55,13 @@ Escribe un programa que pida:
 
 Muestre el precio final
 
-## Ejercicio 4: CalculadoraHora
+## Ejercicio 5: CalculadoraHora
 
 Escribe un programa que recibe como dato de entrada una hora expresada en segundos y devuelva por consola la hora en formato *HH:MM:SS* (hora, minutos y segundos).
 
 Solo es posible calcular horas inferiores a 1 día, por tanto el número mayor a introducir en segundos es 86400 (son los segundos que tiene un día).
 
-## Ejercicio 5: SumaSegundo
+## Ejercicio 6: SumaSegundo
 
 Escribe un programa que recibe como datos de entrada una hora expresada en horas, minutos y segundos.
 
