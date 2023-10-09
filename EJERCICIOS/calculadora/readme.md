@@ -14,6 +14,7 @@ Trabajar con:
 - Expresiones
 - Estructuras de decisión
 - Estructuras de repetición
+- Funciones o métodos estáticos
  
 ### Enunciado
 Implementa un programa "Calculadora" que muestre un menú con las operaciones de:
@@ -33,4 +34,6 @@ Una vez que el usuario elija la opción, debe pedir los dos operadores y mostrar
 
 ## PARTE II: Con funciones o métodos estáticos en la clase Main
 
-Próximamente...
+Por cada opción de la calculadora debes crear una función que haya la operación en cuestión.
+
+
