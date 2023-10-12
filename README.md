@@ -2,6 +2,16 @@
 
 ![image](https://github.com/profeMelola/Programacion-03-2023-24/assets/91023374/dfbe2ca6-adf5-4cd9-92dc-5658cacde7f9)
 
+## Programación estructurada
+
+ ![image](https://github.com/profeMelola/Programacion-03-2023-24/assets/91023374/5a4feaec-1f4b-4a0e-8948-d4ed05df45ad)
+
+
+## Programación modular
+
+![image](https://github.com/profeMelola/Programacion-03-2023-24/assets/91023374/c807a8bc-37fb-4833-b0dc-7de5c89dfdaa)
+
+
 ## Contenidos
 
 Teoría en el aula virtual: 
