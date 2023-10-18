@@ -129,5 +129,8 @@ La salida del programa debe ser:
 
 ## Ejercicio 9: triángulo rectángulo
 
+Imprimir un patrón de asteriscos en forma de un triángulo rectángulo
+
+![image](https://github.com/profeMelola/Programacion-03-2023-24/assets/91023374/fb997025-eb9b-4600-8f1e-d1753867c723)
 
 
