@@ -127,4 +127,7 @@ La salida del programa debe ser:
 
 9 X 10 = 90
 
+## Ejercicio 9: triángulo rectángulo
+
+
 
