@@ -33,6 +33,7 @@ Mostrar los nuevos valores
 Leer 5 números enteros y decir si:
 
 - alguno de los números introducidos es negativo.
+- la cantidad de números negativos introducidos.
 - el valor máximo introducido
 
 ## RETO 5
