@@ -12,7 +12,8 @@ import java.util.Scanner;
 public class App {
 
     // de ámbito global para poder utilizarlo en cualquier parte del program
-    static Scanner sc = new Scanner(System.in);
+    static Scanner scNum = new Scanner(System.in);
+    static Scanner scTexto = new Scanner(System.in);
     
     /**
      * @param args the command line arguments
@@ -21,34 +22,53 @@ public class App {
 
         // Variables 
         int opcion;
-        int operando1, operando2, resultado = 0;
+        float operando1, operando2, resultado = 0;
         
         pintaTitulo();
         
-        opcion = gestionarMenu();
-        
-        if (opcion ==0 ){
-            System.out.println("Vas a salir de la calculadora");
-        }else{
-            
-            System.out.println("Escribe el valor del operando 1:");
-            operando1 = sc.nextInt();
-            
-            System.out.println("Escribe el valor del operando 2:");
-            operando2 = sc.nextInt();
-            
-            
-            // Depediendo de la opción se ejecutará una función u otra
-            switch (opcion) {
-                case 1:
-                    resultado = sumar(operando1,operando2);
-                    break;
-                default:
-                    System.out.println("Has elegido una opción incorrecta!!!");
+        do{
+            opcion = gestionarMenu();
+
+            if (opcion ==0 ){
+                System.out.println("Vas a salir de la calculadora");
+            }else{
+
+                System.out.println("Escribe el valor del operando 1:");
+                operando1 = scNum.nextFloat();
+
+                System.out.println("Escribe el valor del operando 2:");
+                operando2 = scNum.nextFloat();
+
+
+                // Depediendo de la opción se ejecutará una función u otra
+                switch (opcion) {
+                    case 1:
+                        resultado = sumar(operando1,operando2);
+                        break;
+                    case 2:
+                        resultado = restar(operando1,operando2);
+                        break;
+                    case 3:
+                        resultado = multiplicar(operando1,operando2);
+                        break;
+                    case 4:
+                        resultado = dividir(operando1,operando2);
+                        break;
+                        
+                    default:
+                        System.out.println("Has elegido una opción incorrecta!!!");
+                }
+
+                System.out.println("El resultado es :"+resultado);
             }
-            
-            System.out.println("El resultado es :"+resultado);
-        }
+        }while(opcion != 0);
+        
+        //Indicamos que no vamos a leer ningún valor más por teclado.
+        scNum.close();
+        scTexto.close();
+
+        System.out.println("Finalizando la ejecución de la calculadora");
+        
     }
 
     public static void pintaTitulo() {
@@ -78,10 +98,21 @@ public class App {
         System.out.println("******************************");
         System.out.println("Introduce una opción:");
         
-        /*int opcion = sc.nextInt();
-        return opcion;*/
+        /*
+        // Forma 1
+        int opcion = sc.nextInt();
+        return opcion;
+        */
         
-        return sc.nextInt();
+        // Forma 2
+        //return sc.nextInt();
+        
+        // Forma 3
+        // Leer del teclado transformar el valor leído de String a int
+        // 1) Recoger el valor escrito en el teclado
+        // 2) Transformar esa cadena de caracteres en un valor entero
+        
+        return Integer.parseInt(scTexto.nextLine());
 
     }
     
@@ -91,10 +122,20 @@ public class App {
      * @param op2
      * @return 
      */
-    public static int sumar(int op1, int op2){
+    public static float sumar(float op1, float op2){
         return op1+op2;        
     }
 
+    public static float restar(float op1, float op2){
+        return op1-op2;        
+    }
 
+    public static float multiplicar(float op1, float op2){
+        return op1*op2;        
+    }
+
+    public static float dividir(float op1, float op2){
+        return op1/op2;        
+    }
 
 }
