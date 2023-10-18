@@ -35,3 +35,6 @@ Leer 5 números enteros y decir si:
 - alguno de los números introducidos es negativo.
 - el valor máximo introducido
 
+## RETO 5
+
+Mostrar los números impares del 1 al 100 sin utilizar el operador %
