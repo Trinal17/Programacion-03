@@ -3,7 +3,7 @@
 ![image](https://github.com/profeMelola/Programacion-03-2023-24/assets/91023374/8adcb9e8-8551-4d2f-a89b-cb9812610a48)
 
 
-![Disenho_modular](https://github.com/profeMelola/Programacion-03-2023-24/assets/91023374/a2565880-4f1c-4bde-b9d4-eda6fe3d20eb)
+![Disenho_modular|100](https://github.com/profeMelola/Programacion-03-2023-24/assets/91023374/a2565880-4f1c-4bde-b9d4-eda6fe3d20eb)
 
 ## Funciones
 
