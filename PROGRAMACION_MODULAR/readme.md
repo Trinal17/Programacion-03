@@ -34,3 +34,16 @@ Es el modelo que hemos estado utilizando hasta ahora y significa que las variabl
 Se pasa la dirección de memoria, por lo tanto si modificamos el parámetro dentro de la función, se modifica el valor original. Proximamente...
 
 ![parametros](https://github.com/profeMelola/Programacion-03-2023-24/assets/91023374/a1ff824e-2f2c-4782-b56e-9260a731d527)
+
+## Paquete o módulo
+
+Un paquete o módulo es un conjunto de funciones y procedimientos que realizan una tarea concreta. 
+
+Por ejemplo, un paquete de funciones matemáticas, un paquete de funciones de entrada y salida, un paquete de funciones de gestión de arrays, etc. 
+
+Usamos estos paquetes para agrupar funciones y procedimientos que realizan una tarea concreta y que podemos reutilizar en otros programas o en otras partes del mismo. 
+
+Es una forma de ordenar nuestro código por funcionalidades.
+
+Ver ejemplo de la calculadora con la clase Operaciones https://github.com/profeMelola/Programacion-03-2023-24/tree/main/EJERCICIOS/calculadora
+
