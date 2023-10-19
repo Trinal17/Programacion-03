@@ -1,3 +1,3 @@
 # Programación modular
 
-![image](https://github.com/profeMelola/Programacion-03-2023-24/assets/91023374/92335c97-4f0d-4427-962d-7ea85ffb75e6)
+![parametros](https://github.com/profeMelola/Programacion-03-2023-24/assets/91023374/a1ff824e-2f2c-4782-b56e-9260a731d527)
