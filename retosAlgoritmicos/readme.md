@@ -39,3 +39,10 @@ Leer 5 números enteros y decir si:
 ## RETO 5
 
 Mostrar los números impares del 1 al 100 sin utilizar el operador %
+
+## RETO 6
+
+Escribe un programa que acepte por teclado una cadena y muestre la cadena inversa.
+
+**Pista:** La clase String tiene un método llamado charAt... https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html
+
