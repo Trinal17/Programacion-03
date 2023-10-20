@@ -45,7 +45,7 @@ El programa no parará hasta llegar a un número de billetes vendidos que el usu
 
 
 
-![image](https://user-images.githubusercontent.com/91023374/134820387-4429bb44-1c97-427f-83be-07a0ac16e9a8.png) **RETO 4 !!!**
+![image](https://user-images.githubusercontent.com/91023374/134820387-4429bb44-1c97-427f-83be-07a0ac16e9a8.png) **RETO 4 !!! PRÁCTICA GUIDA: Solución moduclar con métodos estáticos **
 - Debes añadir al reto3 la lógica para que al finalizar el programa (se ha llegado al límite de operaciones) se muestre por pantalla el importe total recaudado por la máquina (el sumatorio de todos los importes de cada operación)
 
 
