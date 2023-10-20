@@ -25,7 +25,6 @@ https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php
 - ESTRUCTURAS REPETITIVAS: bucles while
 - ESTRUCTURAS REPETITIVAS: bucles do... while
 - SALIDAS ANTICIPADAS: break... continue
-- CADENAS: String
 - CLASE MATH
 - FUNCIONES: métodos estáticos
 - FUNCIONES: ámbito de variables, parámetros por valor y por referencia
