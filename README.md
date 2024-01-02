@@ -30,7 +30,7 @@ https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php
 - FUNCIONES: ámbito de variables, parámetros por valor y por referencia
 - Bibliotecas y paquetes
 
-
+## Página principal del curso
 [VOLVER PÁGINA PRINCIPAL](https://github.com/profeMelola/Programacion-00-2023-24)
 
 ## Licencia
